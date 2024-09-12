@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc15b111ae1f40d19001bfc0c30f95fb/artifacts
+end_time: 1726102430424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc15b111ae1f40d19001bfc0c30f95fb
+run_name: delicate-finch-235
+run_uuid: dc15b111ae1f40d19001bfc0c30f95fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726102430330
+status: 3
+tags: []
+user_id: jetsonxavier

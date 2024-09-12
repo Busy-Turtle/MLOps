@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e1fd84bc4b0b44df8416d8515a4f073b/artifacts
+end_time: 1726102498846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1fd84bc4b0b44df8416d8515a4f073b
+run_name: clumsy-hare-425
+run_uuid: e1fd84bc4b0b44df8416d8515a4f073b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726102498761
+status: 3
+tags: []
+user_id: jetsonxavier

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eed85811dd3644a18da5a6f46ec8a74d/artifacts
+end_time: 1726103375567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eed85811dd3644a18da5a6f46ec8a74d
+run_name: rebellious-crane-490
+run_uuid: eed85811dd3644a18da5a6f46ec8a74d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726103368562
+status: 3
+tags: []
+user_id: jetsonxavier

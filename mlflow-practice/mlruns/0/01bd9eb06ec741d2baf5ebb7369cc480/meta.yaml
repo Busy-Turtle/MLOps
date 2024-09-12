@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/01bd9eb06ec741d2baf5ebb7369cc480/artifacts
+end_time: 1726043151394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01bd9eb06ec741d2baf5ebb7369cc480
+run_name: languid-roo-332
+run_uuid: 01bd9eb06ec741d2baf5ebb7369cc480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726043144589
+status: 3
+tags: []
+user_id: jetsonxavier

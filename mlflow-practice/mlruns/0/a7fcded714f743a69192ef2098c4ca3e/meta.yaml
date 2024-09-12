@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7fcded714f743a69192ef2098c4ca3e/artifacts
+end_time: 1726102627401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7fcded714f743a69192ef2098c4ca3e
+run_name: defiant-fawn-664
+run_uuid: a7fcded714f743a69192ef2098c4ca3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726102621657
+status: 3
+tags: []
+user_id: jetsonxavier
